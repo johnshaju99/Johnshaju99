@@ -7,8 +7,8 @@
 <li> Programming Skills: R programming (RStudio), Python (Jupyter). </li>
  
 ## Education
-** Data analytics for business desicion making May 2022 - December 2022 **
-** Loyola college BA Economics  June 2017 - May 2020 **
+<li> Data analytics for business desicion making May 2022 - December 2022 </li>
+<li> Loyola college BA Economics  June 2017 - May 2020 </li>
  
  
 
