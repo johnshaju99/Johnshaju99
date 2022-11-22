@@ -12,9 +12,11 @@
 
 ## Projects
 
-<p>[Coffee Cup](https://public.tableau.com/app/profile/john.shaju/viz/CoffeeCupDataAnalysis/Dashboard1?publish=yes)</p>
-<p>[Robbery Crime Analysis](https://github.com/johnshaju99/Robbery-Crime-Analysis) </p>
-<p> [Data Impact Analysis](https://github.com/johnshaju99/Data-Impact-Analysis) </p>
+[Coffee Cup](https://public.tableau.com/app/profile/john.shaju/viz/CoffeeCupDataAnalysis/Dashboard1?publish=yes)
+<hr />
+[Robbery Crime Analysis](https://github.com/johnshaju99/Robbery-Crime-Analysis) 
+
+[Data Impact Analysis](https://github.com/johnshaju99/Data-Impact-Analysis) 
 
 
 
