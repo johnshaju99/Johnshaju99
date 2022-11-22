@@ -6,9 +6,9 @@
 <li> Visualization Skills: Tableau, Power BI. </li>
 <li> Programming Skills: R programming (RStudio), Python (Jupyter). </li>
  
-<h2> Education
-***Data analytics for business desicion making May 2022 - December 2022***
-***Loyola college BA Economics  June 2017 - May 2020***
+## Education
+** Data analytics for business desicion making May 2022 - December 2022 **
+** Loyola college BA Economics  June 2017 - May 2020 **
  
  
 
