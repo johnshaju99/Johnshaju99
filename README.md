@@ -12,7 +12,7 @@
 
 ## Projects
 
-[Coffee Cup] (https://public.tableau.com/app/profile/john.shaju/viz/CoffeeCupDataAnalysis/Dashboard1?publish=yes)
+[Coffee Cup](https://public.tableau.com/app/profile/john.shaju/viz/CoffeeCupDataAnalysis/Dashboard1?publish=yes)
 
 
 
