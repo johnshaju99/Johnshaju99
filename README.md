@@ -1,8 +1,8 @@
 # John Shaju Portfolio
   *An aspring data analyst with prior experience in Marketing, skilled in SQL, Python, Power BI and Tableau.*
  
- Skills
-1.Technical Skills: Sharepoint, Excel, Github, MySql.
+## Skills
+<li> 1.Technical Skills: Sharepoint, Excel, Github, MySql. </li>
 2.Visualization Skills: Tableau, Power BI.
 3.Programming Skills: R programming (RStudio), Python (Jupyter).
  
