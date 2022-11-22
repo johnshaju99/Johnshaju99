@@ -1,3 +1,3 @@
-### John Shaju Portfolio
-[Skills]
+# <h1> John Shaju Portfolio
+
 
