@@ -9,6 +9,7 @@
 ## Education
 <li> Data analytics for business desicion making May 2022 - December 2022 </li>
 <li> Loyola college BA Economics  June 2017 - May 2020 </li>
+
  
  
 
